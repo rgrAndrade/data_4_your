@@ -1,7 +1,7 @@
 ![DATA_4_YOUR_logo](https://user-images.githubusercontent.com/104234513/202039477-bbe38775-29a2-4f21-bdf9-5fcd4975eb61.png)
 
 
-Projeto de Machine Learning para a padaria do seu Zé, é industria de feijão, com o foco de melhorar significativamente seu negócio
+Projeto de Machine Learning para a padaria do seu Zé, é industria de feijão, com o foco de melhoria  significativa nesses negócios.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
